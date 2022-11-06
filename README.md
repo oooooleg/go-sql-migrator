@@ -1,1 +1,1 @@
-![Github CI](https://github.com/oooooleg/go-sql-migrator/actions/workflows/ci.yml/badge.svg) [![Go Report Card](https://goreportcard.com/badge/github.com/oooooleg/go-sql-migrator)](https://goreportcard.com/report/github.com/oooooleg/go-sql-migrator)
+![Github CI](https://github.com/oooooleg/go-sql-migrator/actions/workflows/tests.yml/badge.svg) [![Go Report Card](https://goreportcard.com/badge/github.com/oooooleg/go-sql-migrator)](https://goreportcard.com/report/github.com/oooooleg/go-sql-migrator)
